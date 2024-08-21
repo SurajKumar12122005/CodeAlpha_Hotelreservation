@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Hotel_reservation {
+public class Hotelreservation {
 
     static String name;
     static int roomno;
